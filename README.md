@@ -111,14 +111,8 @@ Wood formed the main structural components, PLA was 3D printed for the blades an
 6. Grip the sides of the slicer and rotate it downward so the blades cut the food resting on the board below.
 7. Pull the cutout handle outward to let the cut food drop into the drawer below, then remove the drawer to retrieve it.
 
-<video src="https://github.com/user-attachments/assets/0ced8a95-2ec5-4003-8c24-e9c49e99d7ad" controls></video>
+<video src="https://github.com/user-attachments/assets/4832cd9b-568e-46df-9fab-643e632cbbba" controls></video>
 <p align="center"><em>Demonstration of the fold over slicer being used to cut food, from attaching the slicer to retrieving cut food from the drawer.</em></p>
-
-
-
-
-
-
 
 ---
 
