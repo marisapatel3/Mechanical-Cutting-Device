@@ -126,11 +126,36 @@ The cutting board and slicer were modeled in Autodesk Inventor using measurement
 </p>
 <p align="center"><em>CAD model of the final refined prototype assembled (left), and with the detachable components separated (right).</em></p>
 
-<p align="center">
-  <img src="Media/CAD/Engineering_Drawing_Cutting_Board.jpg" width="330">
-  <img src="Media/CAD/Engineering_Drawing_Blades.jpg" width="330">
-</p>
-<p align="center"><em>Engineering drawings of the cutting board and blades, dimensioned in millimetres.</em></p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Media/Pictures/Photo_1.jpg" width="260"><br>
+      <em>Caption for photo 1.</em>
+    </td>
+    <td align="center">
+      <img src="Media/Pictures/Photo_2.jpg" width="260"><br>
+      <em>Caption for photo 2.</em>
+    </td>
+    <td align="center">
+      <img src="Media/Pictures/Photo_3.jpg" width="260"><br>
+      <em>Caption for photo 3.</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Media/Pictures/Photo_4.jpg" width="260"><br>
+      <em>Caption for photo 4.</em>
+    </td>
+    <td align="center">
+      <img src="Media/Pictures/Photo_5.jpg" width="260"><br>
+      <em>Caption for photo 5.</em>
+    </td>
+    <td align="center">
+      <img src="Media/Pictures/Photo_6.jpg" width="260"><br>
+      <em>Caption for photo 6.</em>
+    </td>
+  </tr>
+</table>
 
 ---
 
