@@ -122,8 +122,6 @@ Wood formed the main structural components, PLA was 3D printed for the blades an
 
 
 
-
-
 ---
 
 ## CAD & Engineering Drawings
