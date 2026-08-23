@@ -157,4 +157,4 @@ The cutting board and slicer were modeled in Autodesk Inventor using measurement
 
 ## Full Report
 
-[Read the full project report](Files/Kitchen_Cutting_Device_Report.pdf)
+[Read the full project report](Files/Mechanical_Cutting_Device_Report.pdf)
