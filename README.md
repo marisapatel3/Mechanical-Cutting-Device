@@ -67,7 +67,7 @@ Wood formed the main structural components, PLA was 3D printed for the blades an
 
 <p align="center">
   <img src="Media/Pictures/Blades.jpg" width="330">
-  <img src="Media/Pictures/Slicer_Strap.jpg" width="330">
+  <img src="Media/Pictures/Strap.jpg" width="330">
 </p>
 <p align="center"><em>3D printed blades in a square orientation for cutting versatility (left), and the slicer strap with cotton lining (right).</em></p>
 
