@@ -116,6 +116,15 @@ Wood formed the main structural components, PLA was 3D printed for the blades an
 <em>Demonstration of the fold over slicer being used to cut food, from attaching the slicer to retrieving cut food from the drawer.</em>
 </p>
 
+
+
+
+https://github.com/user-attachments/assets/b520fbc9-b2e1-46f0-8c64-9e607c1f6a32
+
+
+
+
+
 ---
 
 ## CAD & Engineering Drawings
