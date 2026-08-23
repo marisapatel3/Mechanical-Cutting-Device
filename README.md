@@ -4,7 +4,7 @@ McMaster ENGINEER 1P13, Mar 2022 – Apr 2022.
 
 Ergonomic fold over slicer designed for a client with Ehlers Danlos Syndrome to reduce joint strain and lateral hand movement during food preparation.
 
-`Autodesk Inventor` `3D Printing` `Woodworking` `PLA` `Assistive Design`
+`Autodesk Inventor` `3D Printing` `Woodworking` `Assistive Design` `PLA` 
 
 <p align="center">
 <img src="Media/Pictures/Assembled_Device.jpg" alt="Assembled device" width="550"><br>
