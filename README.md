@@ -8,7 +8,7 @@ Ergonomic fold over slicer designed for a client with Ehlers Danlos Syndrome to 
 
 <p align="center">
 <img src="Media/Pictures/Assembled_Device.jpg" alt="Assembled device" width="550"><br>
-<em>Fully assembled fold over slicer attached to the cutting board, with the drawer and slicer strap visible.</em>
+<em>Fully Assembled Cutting Device with the Cutting Board, Drawer, Slicer, and Strap.</em>
 </p>
 
 ---
@@ -69,7 +69,7 @@ Wood formed the main structural components, PLA was 3D printed for the blades an
   <img src="Media/Pictures/Blades.jpg" width="330">
   <img src="Media/Pictures/Strap.jpg" width="300">
 </p>
-<p align="center"><em>3D printed blades in a square orientation for cutting versatility (left), and the slicer strap with cotton lining (right).</em></p>
+<p align="center"><em>3D Printed Blades in a Square Orientation for Cutting Versatility, and the Slicer Strap with Cotton Lining.</em></p>
 
 ---
 
@@ -112,7 +112,7 @@ Wood formed the main structural components, PLA was 3D printed for the blades an
 7. Pull the cutout handle outward to let the cut food drop into the drawer below, then remove the drawer to retrieve it.
 
 <video src="https://github.com/user-attachments/assets/4832cd9b-568e-46df-9fab-643e632cbbba" controls></video>
-<p align="center"><em>Demonstration of the fold over slicer being used to cut food, from attaching the slicer to retrieving cut food from the drawer.</em></p>
+<p align="center"><em>Demonstration of the Mechanical Cutting Device being used to cut food, from Attaching the Slicer to Retrieving cut food from the Drawer.</em></p>
 
 ---
 
@@ -124,35 +124,35 @@ The cutting board and slicer were modeled in Autodesk Inventor using measurement
   <img src="Media/Pictures/CAD_Mechanical_Cutting_Device.jpg" width="476">
   <img src="Media/Pictures/CAD_Exploded.jpg" width="450">
 </p>
-<p align="center"><em>CAD model of the final refined prototype assembled (left), and with the detachable components separated (right).</em></p>
+<p align="center"><em>CAD Model of the Final Refined Prototype Assembled, and with the Components Exploded.</em></p>
 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="Media/Pictures/Photo_1.jpg" width="260"><br>
-      <em>Caption for photo 1.</em>
+      <img src="Design/Engineering Drawings/Strap_Drawing.jpg" width="260"><br>
+      <em>Engineering Drawing of Strap (in mm).</em>
     </td>
     <td align="center">
-      <img src="Media/Pictures/Photo_2.jpg" width="260"><br>
-      <em>Caption for photo 2.</em>
+      <img src="Design/Engineering Drawings/Blades_Drawing.jpg" width="260"><br>
+      <em>Engineering Drawing of Blades (in mm).</em>
     </td>
     <td align="center">
-      <img src="Media/Pictures/Photo_3.jpg" width="260"><br>
-      <em>Caption for photo 3.</em>
+      <img src="Design/Engineering Drawings/Cutting_Board_Drawing.jpg" width="260"><br>
+      <em>Engineering Drawing of Cutting Board (in mm).</em>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="Media/Pictures/Photo_4.jpg" width="260"><br>
-      <em>Caption for photo 4.</em>
+      <img src="Design/Engineering Drawings/Drawer_Drawing.jpg" width="260"><br>
+      <em>Engineering Drawing of Drawer (in mm).</em>
     </td>
     <td align="center">
-      <img src="Media/Pictures/Photo_5.jpg" width="260"><br>
-      <em>Caption for photo 5.</em>
+      <img src="Design/Engineering Drawings/Blade_Insert_Holder_Drawing.jpg" width="260"><br>
+      <em>Engineering Drawing of Blade Insert Holder (in mm).</em>
     </td>
     <td align="center">
-      <img src="Media/Pictures/Photo_6.jpg" width="260"><br>
-      <em>Caption for photo 6.</em>
+      <img src="Design/Engineering Drawings/Blade_Holder_Drawing.jpg" width="260"><br>
+      <em>Engineering Drawing of Blade Holder (in mm).</em>
     </td>
   </tr>
 </table>
