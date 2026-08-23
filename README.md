@@ -159,6 +159,48 @@ The cutting board and slicer were modeled in Autodesk Inventor using measurement
   </tr>
 </table>
 
+
+
+
+
+
+
+
+
+<p align="center">
+  <img src="Design/Engineering Drawings/Strap_Drawing.jpg" width="400"><br>
+  <em>Engineering Drawing of Strap (in mm).</em>
+</p>
+
+<p align="center">
+  <img src="Design/Engineering Drawings/Blades_Drawing.jpg" width="400"><br>
+  <em>Engineering Drawing of Blades (in mm).</em>
+</p>
+
+<p align="center">
+  <img src="Design/Engineering Drawings/Cutting_Board_Drawing.jpg" width="400"><br>
+  <em>Engineering Drawing of Cutting Board (in mm).</em>
+</p>
+
+<p align="center">
+  <img src="Design/Engineering Drawings/Drawer_Drawing.jpg" width="400"><br>
+  <em>Engineering Drawing of Drawer (in mm).</em>
+</p>
+
+<p align="center">
+  <img src="Design/Engineering Drawings/Blade_Insert_Holder_Drawing.jpg" width="400"><br>
+  <em>Engineering Drawing of Blade Insert Holder (in mm).</em>
+</p>
+
+<p align="center">
+  <img src="Design/Engineering Drawings/Blade_Holder_Drawing.jpg" width="400"><br>
+  <em>Engineering Drawing of Blade Holder (in mm).</em>
+</p>
+
+
+
+
+
 ---
 
 ## Results
