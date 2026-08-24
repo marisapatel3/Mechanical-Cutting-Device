@@ -130,19 +130,19 @@ The cutting board and slicer were modeled in Autodesk Inventor using measurement
   <img src="Design/Engineering Drawings/Strap_Drawing.jpg" width="400">
   <img src="Design/Engineering Drawings/Blades_Drawing.jpg" width="400">
 </p>
-<p align="center"><em>Engineering Drawing of Strap (left) and Blades (right), in mm.</em></p>
+<p align="center"><em>Engineering Drawings of Strap (left) and Blades (right), in mm.</em></p>
 
 <p align="center">
   <img src="Design/Engineering Drawings/Cutting_Board_Drawing.jpg" width="400">
   <img src="Design/Engineering Drawings/Drawer_Drawing.jpg" width="400">
 </p>
-<p align="center"><em>Engineering Drawing of Cutting Board (left) and Drawer (right), in mm.</em></p>
+<p align="center"><em>Engineering Drawings of Cutting Board (left) and Drawer (right), in mm.</em></p>
 
 <p align="center">
   <img src="Design/Engineering Drawings/Blade_Insert_Holder_Drawing.jpg" width="400">
   <img src="Design/Engineering Drawings/Blade_Holder_Drawing.jpg" width="400">
 </p>
-<p align="center"><em>Engineering Drawing of Blade Insert Holder (left) and Blade Holder (right), in mm.</em></p>
+<p align="center"><em>Engineering Drawings of Blade Insert Holder (left) and Blade Holder (right), in mm.</em></p>
 
 ---
 
@@ -157,9 +157,9 @@ The cutting board and slicer were modeled in Autodesk Inventor using measurement
 
 ## Limitations & Future Improvements
 
-- Blades were 3D printed with PLA and a serrated edge, which demonstrated the design's functionality but would need to move to a plastic or metal blade for a sharper, more commercial grade cut.
+- Blades were 3D printed with PLA and a serrated edge, which demonstrated the design's functionality, but would need to move to a plastic or metal blade for a sharper, more commercial grade cut.
 - No guard or cover was fabricated for the blades due to project time constraints, though it was identified as a valuable safety addition.
-- The height of the cutting board was only estimated from the client's body measurements; having the client test the device directly and adjust for comfort would be a more reliable input.
+- The height of the cutting board was only estimated from the client's body measurements. Having the client test the device directly and adjust for comfort would be a more reliable input.
 - An adjustable height mechanism was considered so other members of the client's household could use the device, but was not implemented within the project timeline.
 - More food safe materials, such as different cuts or polished wood, were identified as an improvement if given an increased budget.
 
