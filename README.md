@@ -79,7 +79,7 @@ Wood formed the main structural components, PLA was 3D printed for the blades an
 
 - Small divots were sanded into the slicer surface to match the client's hand shape and support the carpometacarpal and metacarpophalangeal joints.
 - The slicer strap was sized to about 5 inches wide, using measurements taken directly from the client's hand, so it could fit comfortably with ease.
-- Cotton lining under the strap and rounded, sanded edges where the client grips the slicer reduce pressure points and discomfort during use.
+- Cotton lining under the strap and rounded, sanded edges where the client grips the slicer were incorporated to reduce the pressure points and discomfort during use.
 
 ### 2. Cutting Mechanism
 
