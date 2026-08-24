@@ -57,7 +57,7 @@ Requirements were identified through client interviews and direct hand measureme
 | Cutting Board, Cutout, Cutout Handle, Drawer Handle, Drawer, Slicer, Insert Piece | Wood | 6 | $86.53 |
 | Blades | PLA | 3 | $0.00 |
 | Slicer Strap | PLA | 1 | $0.00 |
-| No Slip Stoppers | Plastic | 6 | $0.00 |
+| No-Slip Stoppers | Plastic | 6 | $0.00 |
 | Hinges | Metal | 2 | $0.00 |
 | Nails | Metal | 8 | $0.00 |
 | Slicer Strap Lining | Cotton | 1 | $0.00 |
