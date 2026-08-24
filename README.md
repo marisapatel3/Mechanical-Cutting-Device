@@ -84,7 +84,7 @@ Wood formed the main structural components, PLA was 3D printed for the blades an
 ### 2. Cutting Mechanism
 
 - The blades sit in a square orientation within a removable blade insert, allowing versatility while cutting and easy replacement.
-- Blades are 3D printed with PLA, chosen for its food safety and durability while remaining easy to reprint at home if replacement is needed.
+- Blades are 3D printed with PLA, chosen for its food safety, durability, and washability while remaining easy to reprint at home if replacement is needed.
 - Rotating the slicer downward onto the food, rather than the lateral motion of a standard knife, replaces the standard cutting grip with a single controlled motion.
 
 ### 3. Food Collection & Board
