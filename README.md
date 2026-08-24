@@ -111,8 +111,9 @@ Wood formed the main structural components, PLA was 3D printed for the blades an
 6. Grip the sides of the slicer and rotate it downward so the blades cut the food resting on the board below.
 7. Pull the cutout handle outward to let the cut food drop into the drawer below, then remove the drawer to retrieve it.
 
-<video src="https://github.com/user-attachments/assets/4832cd9b-568e-46df-9fab-643e632cbbba" controls></video>
-<p align="center"><em>Demonstration of the Mechanical Cutting Device being used to cut food, from Attaching the Slicer to Retrieving cut food from the Drawer.</em></p>
+   <video src="https://github.com/user-attachments/assets/4832cd9b-568e-46df-9fab-643e632cbbba" controls></video>
+   <p align="center"><em>Demonstration of the Mechanical Cutting Device being used to cut food, from Attaching the Slicer to Retrieving cut food from the Drawer
+   </em></p>
 
 ---
 
@@ -121,8 +122,8 @@ Wood formed the main structural components, PLA was 3D printed for the blades an
 The cutting board and slicer were modeled in Autodesk Inventor using measurements taken from the refined initial prototype, then fabricated through a combination of woodworking and 3D printing.
 
 <p align="center">
-  <img src="Media/Pictures/CAD_Mechanical_Cutting_Device.jpg" width="476">
-  <img src="Media/Pictures/CAD_Exploded.jpg" width="450">
+  <img src="Media/Pictures/CAD_Mechanical_Cutting_Device.jpg" width="466">
+  <img src="Media/Pictures/CAD_Exploded.jpg" width="440">
 </p>
 <p align="center"><em>CAD Model of the Final Refined Prototype Assembled, and with the Components Exploded.</em></p>
 
