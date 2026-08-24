@@ -91,7 +91,7 @@ Wood formed the main structural components, PLA was 3D printed for the blades an
 
 - Cut food drops through a sliding cutout in the cutting board into a removable drawer positioned underneath.
 - A handle built into the cutout piece allows the client to pull it out easily to retrieve cut food.
-- Rubber and plastic no slip stoppers on the underside of the board keep it stable on kitchen counters during use.
+- Rubber and plastic no-slip stoppers on the underside of the board keep it stable on kitchen counters during use.
 
 ### 4. Assembly & Modular Hardware
 
