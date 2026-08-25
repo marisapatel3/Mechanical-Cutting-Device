@@ -1,8 +1,8 @@
-# Mechanical Cutting Device: Adaptive Fold Over Slicer
+# Mechanical Cutting Device: Adaptive Fold-Over Slicer
 
 McMaster ENGINEER 1P13, Mar 2022 – Apr 2022.
 
-Ergonomic fold over slicer designed for a client with Ehlers Danlos Syndrome to reduce joint strain and lateral hand movement during food preparation.
+Ergonomic fold-over slicer designed for a client with Ehlers Danlos Syndrome to reduce joint strain and lateral hand movement during food preparation.
 
 `Autodesk Inventor` `3D Printing` `Woodworking` `Assistive Design` `PLA` 
 
@@ -32,7 +32,7 @@ Ergonomic fold over slicer designed for a client with Ehlers Danlos Syndrome to 
 
 ## Overview
 
-This project was built for a client living with Ehlers Danlos Syndrome (EDS), a connective tissue condition that makes gripping and applying force through the hand joints painful during everyday tasks such as cutting food. Standard knives require bending the fingers around a handle and pushing downward, placing significant strain on the carpometacarpal and metacarpophalangeal joints. The finished device is a fold over slicer attached to a cutting board, letting the client prepare food with a flat hand placement and without the lateral cutting motion required by a standard knife. Main components include a wooden cutting board with a sliding cutout and drawer, a hinged slicer with a cushioned wrist strap, detachable 3D printed blades, and a modular pin and hinge assembly.
+This project was built for a client living with Ehlers Danlos Syndrome (EDS), a connective tissue condition that makes gripping and applying force through the hand joints painful during everyday tasks such as cutting food. Standard knives require bending the fingers around a handle and pushing downward, placing significant strain on the carpometacarpal and metacarpophalangeal joints. The finished device is a fold-over slicer attached to a cutting board, letting the client prepare food with a flat hand placement and without the lateral cutting motion required by a standard knife. Main components include a wooden cutting board with a sliding cutout and drawer, a hinged slicer with a cushioned wrist strap, detachable 3D printed blades, and a modular pin and hinge assembly.
 
 ---
 
