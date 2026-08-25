@@ -122,8 +122,8 @@ Wood formed the main structural components, PLA was 3D printed for the blades an
 The cutting board and slicer were modeled in Autodesk Inventor using measurements taken from the refined initial prototype, then fabricated through a combination of woodworking and 3D printing.
 
 <p align="center">
-  <img src="Media/Pictures/CAD_Mechanical_Cutting_Device.jpg" width="456">
-  <img src="Media/Pictures/CAD_Exploded.jpg" width="430">
+  <img src="Media/Pictures/CAD_Mechanical_Cutting_Device.jpg" width="446">
+  <img src="Media/Pictures/CAD_Exploded.jpg" width="420">
 </p>
 <p align="center"><em>CAD Model of the Final Refined Prototype Assembled, and with the Components Exploded.</em></p>
 
